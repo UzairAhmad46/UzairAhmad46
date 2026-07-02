@@ -1,10 +1,12 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,27&text=Uzair%20Ahmad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
 # 👋 Hi, I'm Uzair Ahmad
 
 ### Front-End Developer • React.js Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Applications;React.js+Developer;Always+Learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=550&lines=Building+Modern+Web+Applications;React.js+Developer;Always+Learning;Creating+Beautiful+User+Interfaces"/>
 
 <p>
 <a href="https://www.youtube.com/@uzairdevstudio">
@@ -26,18 +28,30 @@
 
 ## 👨‍💻 About Me
 
-- 💙 Front-End Developer from Pakistan
-- ⚛️ React.js & JavaScript Enthusiast
-- 🎨 Love creating modern and responsive UIs
+- 💙 Front-End Developer from Pakistan 🇵🇰
+- ⚛️ Passionate about React.js & JavaScript
+- 🎨 Love creating modern, responsive UIs
 - 🌱 Currently learning Advanced JavaScript
+- 🚀 Building projects and sharing tutorials on YouTube
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,vscode"/>
-</p>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+- 🚗 Car Showcase Website
+- 🍔 Restaurant Website
+- 🏍️ Bike Landing Page
+- 🌐 Portfolio Website
 
 ---
 
@@ -53,6 +67,8 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code. Create. Inspire."*
+*"Code. Create. Inspire."* 💙
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,27"/>
 
 </div>

@@ -41,15 +41,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🚗 Car Showcase Website
-- 🍔 Restaurant Website
-- 🏍️ Bike Landing Page
-- 🌐 Portfolio Website
-
----
-
 ## 📺 YouTube
 
 🎥 I share web development tutorials and modern UI projects.
